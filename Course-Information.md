@@ -30,7 +30,7 @@ Week 4: Chapter 6 and Chapter 7
 
 Week 5: Chapter 8 and Begin Chapter 9
 * Security Models
-* Security Vulnerabiliy
+* Security Vulnerability
 
 Week 6: Chapter 9 and Review
 * Security Vulnerability
