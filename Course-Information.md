@@ -10,57 +10,56 @@ Practice Tests ISBN: 978-1119787631
 
 ## Course Outline
 
-Week 1: Introductions and Chapter 1
+Week 1: 
 * Introductions
 * Course expectations
 * Exam information
-* Security Governance
+* Chapter 1, Modules 1-3
+* Case Study
 
-Week 2: Chapter 2 and Chapter 3
-* Personnel Security and Risk Management
-* Business Continuity Planning
+Week 2: 
+* Chapter 1, Modules 4-6
+* Chapter 2, Modules 1-4
 
-Week 3: Chapter 4 and Chapter 5
-* Laws, Regulation, and Compliance
-* Protecting Security of Assets
+Week 3:
+* Chapter 3, Modules 1-5
+* Case Study
 
-Week 4: Chapter 6 and Chapter 7
-* Cryptography
-* PKI
+Week 4: 
+* Chapter 3, Modules 5-7
+* Chapter 4, Module 1
 
-Week 5: Chapter 8 and Begin Chapter 9
-* Security Models
-* Security Vulnerability
+Week 5:
+* Chapter 4, Modules 2-4
 
-Week 6: Chapter 9 and Review
-* Security Vulnerability
-* Review
+Week 6:
+* Chapter 4, Modules 5-6
+* Chapter 5, Modules 1-7
 
-Week 7: Chapter 10 and Chapter 11
-* Physical Security
-* Secure Network Architecture
+Week 7:
+* Chapter 4, Modules 8-12
 
-Week 8: Chapter 12 
-* Secure Communications and Network Attacks
+Week 8: 
+* Chapter 6, Modules 1-9
+* Case Study
 
-Week 9: Chapter 13 and Chapter 14
-* Managing Identity and Authentication
-* Controlling and Monitoring Access
+Week 9:
+* Chapter 7, Modules 1-5
+* Case Study
 
-Week 10: Chapter 15 and Chapter 16
-* Security Assessment and Testing
-* Managing Security Operations
+Week 10:
+* Chapter 8, Modules 1-6
+* Case Study
 
-Week 11: Chapter 17 and Chapter 18
-* Preventing and Responding to Incidents
-* Disaster Recovery Planning
+Week 11:
+* Chapter 8, Modules 7-10
+* Chapter 9, Modules 1-4
 
-Week 12: Chapter 19 and Chapter 20
-* Investigations
-* Software Development Security
+Week 12:
+* Chapter 9, Modules 5-9
+* Chapter 10, Modules 1-5
 
-Week 13: Chapter 21 and Review
-* Malicious Code Attacks
+Week 13:
 * Review
 
 
