@@ -21,14 +21,14 @@ Week 2:
 * Chapter 1, Modules 5-6
 * Chapter 1 Applied Scenario
 * Chapter 2, Modules 1-4
-* Chapter 2 Applied Scenario
 
 Week 3:
+* Chapter 2 Applied Scenario
 * Chapter 3, Modules 1-5
 * Case Study
 
 Week 4: 
-* Chapter 3, Modules 5-7
+* Chapter 3, Modules 6-7
 * Chapter 3 Applied Scenario
 * Chapter 4, Module 1
 
