@@ -4,7 +4,7 @@
 
 The course runs for 13 weeks on Thursday evenings from 5:30 to 9:30.
 
-Book ISBN: 978-1-26-002704-4
+Book ISBN: 978-1119786238
 
 Practice Tests ISBN: 978-1119787631
 
