@@ -33,10 +33,9 @@ Week 4:
 * Chapter 4, Module 1
 
 Week 5:
-* Chapter 4, Modules 2-4
+* Chapter 4, Modules 2-6
 
 Week 6:
-* Chapter 4, Modules 5-6
 * Chapter 4 Applied Scenario
 * Chapter 5, Modules 1-7
 
