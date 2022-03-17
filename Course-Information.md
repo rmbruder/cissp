@@ -38,10 +38,10 @@ Week 5:
 Week 6:
 * Chapter 4, Modules 5-6
 * Chapter 4 Applied Scenario
-* Chapter 5, Modules 1-7
+* Chapter 5, Modules 1-5
 
 Week 7:
-* Chapter 5, Modules 8-12
+* Chapter 5, Modules 6-12
 * Chapter 5 Applied Scenario
 
 Week 8: 
