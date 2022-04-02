@@ -69,7 +69,6 @@ Week 12:
 * Chapter 10, Modules 1-5
 
 Week 13:
-* Chapter 10 Applied Scenario
 * Review
 
 
