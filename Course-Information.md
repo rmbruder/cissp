@@ -2,7 +2,7 @@
 
 ## General Information
 
-The course runs for 13 weeks on Thursday evenings from 5:30 to 9:30.
+The course runs for 13 weeks on Wednesday evenings from 6:00 to 10:00.
 
 Book ISBN: 978-1119786238
 
