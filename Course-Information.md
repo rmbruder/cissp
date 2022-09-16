@@ -8,6 +8,8 @@ Book ISBN: 978-1119786238
 
 Practice Tests ISBN: 978-1119787631
 
+Bundle: 978-1119790020
+
 ## Course Outline
 
 Week 1: 
