@@ -26,3 +26,10 @@ ECC cryptography
 
 https://www.youtube.com/watch?v=muIv8I6v1aE
 
+Digital Signatures
+
+https://www.tutorialspoint.com/cryptography/cryptography_digital_signatures.htm
+
+HMAC
+
+https://www.youtube.com/watch?v=MKn3cxFNN1I
