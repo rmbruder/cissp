@@ -2,7 +2,7 @@
 
 ## General Information
 
-The course runs for 13 weeks on Wednesday evenings from 6:00 to 10:00.
+The course runs for 13 weeks on Thursday evenings from 6:00 to 10:00.
 
 Book ISBN: 978-1119786238
 
@@ -14,63 +14,58 @@ Bundle: 978-1119790020
 
 Week 1: 
 * Introductions
-* Course expectations
-* Exam information
-* Chapter 1, Modules 1-4
-* Case Study
+* Intro slides
+* Domain 1.1 - 1.7, 
+* Applied Scenario
 
 Week 2: 
-* Chapter 1, Modules 5-6
-* Chapter 1 Applied Scenario
-* Chapter 2, Modules 1-4
+* Domain 1.8 - 1.13
+* Applied Scenario
 
-Week 3:
-* Chapter 2 Applied Scenario
-* Chapter 3, Modules 1-5
-* Case Study
+Weed 3: 
+* Domain 2.1 - 2.6
+* Applied Scenario
 
 Week 4: 
-* Chapter 3, Modules 6-7
-* Chapter 3 Applied Scenario
-* Chapter 4, Module 1
+* Domain 3.1 - 3.5
+* Case Study
+* Applied Scenario
 
-Week 5:
-* Chapter 4, Modules 2-4
+Week 5: 
+* Domain 3.6 - 3.9
+* Applied Scenario
 
-Week 6:
-* Chapter 4, Modules 5-6
-* Chapter 4 Applied Scenario
-* Chapter 5, Modules 1-5
+Week 6: 
+* Domain 4.1 - 4.2
 
-Week 7:
-* Chapter 5, Modules 6-12
-* Chapter 5 Applied Scenario
+Week 7: 
+* Domain 4.3 
+* Applied Scenario
+* Domain 5.1
 
 Week 8: 
-* Chapter 6, Modules 1-9
-* Chapter 6 Applied Scenario
+* Domain 5.2 - 5.5
 * Case Study
+* Applied Scenario
 
-Week 9:
-* Chapter 7, Modules 1-5
-* Chapter 7 Applied Scenario
+Week 9: 
+* Domain 6.1 - 6.5
 * Case Study
+* Applied Scenario
 
-Week 10:
-* Chapter 8, Modules 1-6
+Week 10: 
+* Domain 7.1 - 7.6
+
+Week 11: 
+* Domain 7.7 - 7.9
 * Case Study
+* Applied Scenario
 
-Week 11:
-* Chapter 8, Modules 7-10
-* Chapter 8 Applied Scenario
-* Chapter 9, Modules 1-4
+Week 12: 
+* Domain 8.1 - 8.5
+* 2 Case Studies
+* Applied Scenario
 
-Week 12:
-* Chapter 9, Modules 5-9
-* Chapter 9 Applied Scenario
-* Chapter 10, Modules 1-5
-
-Week 13:
+Week 13: 
 * Review
-
-
+* Practice Tests
