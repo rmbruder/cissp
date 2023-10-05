@@ -15,7 +15,7 @@ Bundle: 978-1119790020
 Week 1: 
 * Introductions
 * Intro slides
-* Domain 1.1 - 1.7, 
+* Domain 1.1 - 1.7
 * Applied Scenario
 
 Week 2: 
