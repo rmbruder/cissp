@@ -22,7 +22,7 @@ Week 2:
 * Domain 1.8 - 1.13
 * Applied Scenario
 
-Weed 3: 
+Week 3: 
 * Domain 2.1 - 2.6
 * Applied Scenario
 
