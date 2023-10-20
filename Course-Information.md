@@ -27,12 +27,12 @@ Week 3:
 * Applied Scenario
 
 Week 4: 
-* Domain 3.1 - 3.5
+* Domain 3.1 - 3.6
 * Case Study
 * Applied Scenario
 
 Week 5: 
-* Domain 3.6 - 3.9
+* Domain 3.7 - 3.9
 * Applied Scenario
 
 Week 6: 
